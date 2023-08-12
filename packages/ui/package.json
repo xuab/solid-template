@@ -1,0 +1,8 @@
+{
+  "name": "@template/ui",
+  "type": "module",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "solid-js": "^1.0.0"
+  }
+}
